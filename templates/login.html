@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+</head>
+<body>
+    <h2>Login</h2>
+    <input type="text" id="loginUsername" placeholder="Username">
+    <input type="password" id="loginPassword" placeholder="Password">
+    <button onclick="login()">Login</button>
+    <div id="loginMessage"></div>
+
+    <t1>Click <a href="/signup_page">here</a> to go to the signup page.</t1>
+
+    <script src="{{ url_for('static', filename='login.js') }}"></script>
+</body>
+</html>
