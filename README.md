@@ -161,9 +161,7 @@ The database used is ChromaDB.
 
 - 1. **Main Usage Diagrams: Provide visual aids demonstrating the primary functionalities and user interactions of the application.**
 
-
 It has login screen which allows an already registered user to login using their credentials.
-
 
 It has signup screen which allows a new user to register.
 
