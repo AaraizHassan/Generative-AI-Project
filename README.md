@@ -1,5 +1,5 @@
 <!-- # Generative-AI-Project -->
-VidHarbor: Your Tailored YouTube Voyage
+# VidHarbor: Your Tailored YouTube Voyage
 
 The project envisions a dedicated educational search platform that revolutionizes the way users interact with YouTube channels. The platform aims to bridge the gap between user queries and relevant content by providing a comprehensive list of reputable and curated YouTube channels. This curated collection ensures that users have access to high-quality, educational resources aligned with their learning goals.
 
